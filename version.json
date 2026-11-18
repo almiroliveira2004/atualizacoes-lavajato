@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.1.3",
-  "url_setup": "https://github.com/almiroliveira2004/atualizacoes-lavajato/releases/download/v1.1.1.1/LavaJato-Setup-v1.1.1.3.exe",
+  "versao": "1.1.1.4",
+  "url_setup": "https://github.com/almiroliveira2004/atualizacoes-lavajato/releases/download/v1.1.1.1/LavaJato-Setup-v1.1.1.4.exe",
   "obrigatorio": false,
   "notas_versao": "Correção de bugs e melhoria no visual."
 }
