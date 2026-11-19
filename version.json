@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.1.6",
-  "url_setup": "https://github.com/almiroliveira2004/atualizacoes-lavajato/releases/download/v1.1.1.1/LavaJato-Setup-v1.1.1.6.exe",
+  "versao": "1.1.1.7",
+  "url_setup": "https://github.com/almiroliveira2004/atualizacoes-lavajato/releases/download/v1.1.1.1/LavaJato-Setup-v1.1.1.7exe",
   "obrigatorio": false,
   "notas_versao": "Reestruturacao e expansao do Help do Sistema (F1)."
 }
