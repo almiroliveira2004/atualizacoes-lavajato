@@ -1,6 +1,7 @@
 {
-  "versao": "1.1.1.8",
-  "url_setup": "https://github.com/almiroliveira2004/atualizacoes-lavajato/releases/download/v1.1.1.1/LavaJato-Setup-v1.1.1.8.exe",
+  "versao": "1.1.1.9",
+  "url_setup": "https://github.com/almiroliveira2004/atualizacoes-lavajato/releases/download/v1.1.1.1/LavaJato-Setup-v1.1.1.9.exe",
   "obrigatorio": false,
-  "notas_versao": "Nova versão 1.1.1.7 com Help Desk, Tema Carbon Red, Módulo Frente de Caixa e relatórios corrigidos."
+  "notas_versao": "Nova versão 1.1.1.9 Módulo Frente de Caixa e relatórios corrigidos."
 }
+
